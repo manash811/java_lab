@@ -4,6 +4,6 @@ public class hello2 {
         System.out.println("oopj");
         System.out.println("Manash");
         System.out.println("abcd");
-        System.out.println("ybygb");
+        System.out.println("yb");
     }
 }
